@@ -1,0 +1,23 @@
+baseURL: https://matthewvance.github.io/
+languageCode: en-us
+title: Matt Vance · Landing Page
+theme: vncnt-hugo
+
+
+blackfriday:
+  extensions:
+    - hardLineBreak
+
+params:
+  author: Matt Vance
+  avatar: img/profile.jpg
+  bio: "Security Architect ★ Solver of security challenges in healthcare IT (cloud • medical devices • IoT • data protection)."
+  description: Landing Page
+  email:
+  error404: The page you were looking for was not found.
+  favicon: img/favicon.ico
+
+  Contact:
+    github: https://github.com/MatthewVance/
+    twitter: https://twitter.com/VanceMatthew
+    linkedin: https://www.linkedin.com/in/mattvance/
